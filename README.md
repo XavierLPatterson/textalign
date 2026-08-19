@@ -1,3 +1,6 @@
+> [!NOTE]
+> I personally believe a **better** explanation and **easier** copy-paste-code is on Khan Academy [here](https://www.khanacademy.org/python-program/textalignpy-51-module/6454969571328000).
+
 # textalign
 
 Useful tools for creating, wrapping, clipping, repeating and aligning Python strings (`str`).
